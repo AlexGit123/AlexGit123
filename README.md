@@ -3,7 +3,6 @@
 ### About me
 
 HZ University - HBO-ICT&nbsp;
-Languages - English and German
 
 
 ---
