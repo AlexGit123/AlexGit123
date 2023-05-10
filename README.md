@@ -4,20 +4,20 @@
 
 </p>
 
-### :hammer_and_wrench: About me:
+### 😁 About me:
 
 - HZ University - ICT 
-- Currently learning more about Vue.js
-- Working on an app for appointment and user managment using Vue.js, mySQL and Tailwind
+- Currently learning more about Vue
+- Working on an app for appointment and user managment using Vue, mySQL and Tailwind
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Java" alt="Vue" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Laravel" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vue" />&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
+<img src="https://skillicons.dev/icons?i=php" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" />
 
 ---
