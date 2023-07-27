@@ -28,7 +28,4 @@
 
 ---
 ### 📱 Reach me here :
-   <a href="https://mail.google.com">Gmail</a>&nbsp;
-   <a href="https://skillicons.dev">
-    <img style="width: 2%" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+   - doer0001@hz.nl
