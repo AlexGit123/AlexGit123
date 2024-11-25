@@ -6,9 +6,9 @@
 
 ### 😁 About me:
 
-- HZ University - ICT 
+- HZ UoAS
 - Currently learning more about Vue
-- Working on an app for appointment and user managment using Vue, mySQL and Tailwind
+- Working on an app using the OMDB API, Go, Vue, and Tailwind
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -16,16 +16,14 @@
 <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
 <img src="https://skillicons.dev/icons?i=php" />&nbsp;
+<img src="https://skillicons.dev/icons?i=py" />&nbsp;
+<img src="https://skillicons.dev/icons?i=django" />&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" />
-
 ---
 ### :thinking: I want to learn :
 <img src="https://skillicons.dev/icons?i=react" />&nbsp;
-<img src="https://skillicons.dev/icons?i=svelte" />&nbsp;
-<img src="https://skillicons.dev/icons?i=angular" />&nbsp;
-
 ---
 ### 📱 Reach me here :
    - doer0001@hz.nl
